@@ -1,0 +1,64 @@
+{
+    "results": [{
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Lydia",
+            "last": "Wood"
+        },
+        "location": {
+            "street": {
+                "number": 5553,
+                "name": "Thornridge Cir"
+            },
+            "city": "Wagga Wagga",
+            "state": "Australian Capital Territory",
+            "country": "Australia",
+            "postcode": 8239,
+            "coordinates": {
+                "latitude": "-82.1668",
+                "longitude": "169.0735"
+            },
+            "timezone": {
+                "offset": "+3:30",
+                "description": "Tehran"
+            }
+        },
+        "email": "lydia.wood@example.com",
+        "login": {
+            "uuid": "9f398de1-bcbf-4380-9991-4ab4e2eb471f",
+            "username": "beautifulfish716",
+            "password": "mmmmmm",
+            "salt": "US8lFdfK",
+            "md5": "79043fd723c9687feae9f80963ea8e0f",
+            "sha1": "7a11b63c78d241fd08ec984b85d7d4aceff7d808",
+            "sha256": "a975539230dd0f47013b2c7f7a050d28624f025fe9cfffccd7f99b772fe0e924"
+        },
+        "dob": {
+            "date": "1983-12-23T13:48:00.664Z",
+            "age": 39
+        },
+        "registered": {
+            "date": "2008-05-10T07:36:04.949Z",
+            "age": 15
+        },
+        "phone": "01-9734-1931",
+        "cell": "0484-697-285",
+        "id": {
+            "name": "TFN",
+            "value": "646180989"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/87.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+        },
+        "nat": "AU"
+    }],
+    "info": {
+        "seed": "e4c6d2796fcbf413",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
